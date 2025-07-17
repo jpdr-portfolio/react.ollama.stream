@@ -1,2 +1,2 @@
 # ABOUT THIS APP
-This is a simple React app that calls the back-end using POST and receives a SSE stream of AI tokens from the back-end.
+This is a simple React app that calls the back-end using http POST calls and receives a SSE stream of AI tokens from the back-end. The tokens are displayed in the chat in real-time.
